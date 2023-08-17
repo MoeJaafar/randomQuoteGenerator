@@ -6,7 +6,6 @@ A simple web application that displays random quotes and allows users to fetch n
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -16,9 +15,6 @@ A simple web application that displays random quotes and allows users to fetch n
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-A live demo of the app is available [here](https://your-app-demo-link.com).
 
 ## Features
 
