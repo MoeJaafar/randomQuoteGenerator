@@ -2,7 +2,7 @@
 
 A simple web application that displays random quotes and allows users to fetch new quotes and share them on Twitter.
 
-![App Screenshot](../randomquotegeneratorapp/src/screenshot.png)
+![App Screenshot](screenshot.png)
 
 ## Table of Contents
 
